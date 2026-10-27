@@ -1,0 +1,6 @@
+# IDE/agent working data (mirrors of skills, caches, session state)
+.codebuddy/
+logs/
+__pycache__/
+*.pyc
+.playwright-cli/
